@@ -33,8 +33,8 @@ namespace ProjetoSara
                 Console.WriteLine("                    ><<                ><<<<<< ><<               ><<  ><<                   ><<<<<< ><<\n");
                 Console.WriteLine("              ><<    ><<              ><<       ><<              ><<    ><<                ><<       ><<\n");
                 Console.WriteLine("                ><< <<       ><<     ><<         ><<     ><<     ><<      ><<     ><<     ><<         ><<\n");
-                Console.WriteLine("                                    Sistema Autonomo Racional Artificial V:1.3\n\n\n\n");
-
+                Console.WriteLine("                                    Sistema Autonomo Racional Artificial V:1.3\n\n");
+                Console.WriteLine("                                        Codigo fonte de Wenderson Rafael\n\n\n");
 
 
                 SpeechSynthesizer synth = new SpeechSynthesizer();
@@ -42,7 +42,7 @@ namespace ProjetoSara
                 synth.SelectVoiceByHints(VoiceGender.Female, VoiceAge.Teen, 0, new System.Globalization.CultureInfo("pt-BR"));
 
 
-            //data base
+       
 
 
                 Console.ForegroundColor = ConsoleColor.White;
@@ -63,7 +63,7 @@ namespace ProjetoSara
                     synth.Speak("Olá! Como você está?");
                 }
                 else if(input.Contains("busque respostas no database") || input.Contains("abrir database") || input.Contains("banco de dados"))
-                { /*omando extremamente importantee que se conecta ao  banco de dados SQL e busca a resposta para a pergunta.
+                { /*Comando extremamente importantee que se conecta ao  banco de dados SQL e busca a resposta para a pergunta.
                   lembre de que a pergunta deve ser a mesma registrada no banco de dados pois é uma assistente sem rede neural,
                   sendo assim ela nao tem a capacidade de interpretar uma pergunta diferente, mesmo que seja para a mesma resposta*/
                   
@@ -112,7 +112,8 @@ namespace ProjetoSara
                     Console.WriteLine("                    ><<                ><<<<<< ><<               ><<  ><<                   ><<<<<< ><<\n");
                     Console.WriteLine("              ><<    ><<              ><<       ><<              ><<    ><<                ><<       ><<\n");
                     Console.WriteLine("                ><< <<       ><<     ><<         ><<     ><<     ><<      ><<     ><<     ><<         ><<\n");
-                    Console.WriteLine("                                    Sistema Autonomo Racional Artificial V:1.3\n\n\n\n");
+                    Console.WriteLine("                                    Sistema Autonomo Racional Artificial V:1.3\n\n");
+                    Console.WriteLine("                                        Codigo fonte de Wenderson Rafael\n\n\n");
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.SetCursorPosition(0, Console.CursorTop + 1); // Volta para a linha de baixo da logo
                 }
@@ -240,7 +241,6 @@ namespace ProjetoSara
                     synth.Speak("Desculpe, não entendi. Você pode repetir, por favor?");
                 }
 
-                
 
             }
         }
