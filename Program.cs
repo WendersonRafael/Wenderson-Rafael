@@ -66,7 +66,7 @@ namespace ProjetoSara
                   lembre de que a pergunta deve ser a mesma registrada no banco de dados pois é uma assistente sem rede neural,
                   sendo assim ela nao tem a capacidade de interpretar uma pergunta diferente, mesmo que seja para a mesma resposta*/
                   
-                    string connectionString = @"Data Source=OWFROSTPC;Initial Catalog=sara;User ID=sa;Password=we200845";
+                    string connectionString = @"Data Source=SEUDATABASE;Initial Catalog=NOMECATALOG;User ID=USER;Password=PASSWORD";
                     SqlConnection connection = new SqlConnection(connectionString); 
                     connection.Open();
 
