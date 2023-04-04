@@ -32,8 +32,7 @@ namespace ProjetoSara
                 Console.WriteLine("                ><<                    ><<   ><<                 >< ><<                      ><<   ><<\n");
                 Console.WriteLine("                    ><<                ><<<<<< ><<               ><<  ><<                   ><<<<<< ><<\n");
                 Console.WriteLine("              ><<    ><<              ><<       ><<              ><<    ><<                ><<       ><<\n");
-                Console.WriteLine("                ><< <<       ><<     ><<         ><<     ><<     ><<      ><<     ><<     ><<         ><<\n");
-                Console.WriteLine("                                    Sistema Autonomo Racional Artificial V:1.3\n\n");
+                Console.WriteLine("                ><< <<       ><<     ><<         ><<     ><<     ><<      ><<     ><<     ><<         ><<    V1.3\n\n");
                 Console.WriteLine("                                        Codigo fonte de Wenderson Rafael\n\n\n");
 
 
@@ -111,8 +110,7 @@ namespace ProjetoSara
                     Console.WriteLine("                ><<                    ><<   ><<                 >< ><<                      ><<   ><<\n");
                     Console.WriteLine("                    ><<                ><<<<<< ><<               ><<  ><<                   ><<<<<< ><<\n");
                     Console.WriteLine("              ><<    ><<              ><<       ><<              ><<    ><<                ><<       ><<\n");
-                    Console.WriteLine("                ><< <<       ><<     ><<         ><<     ><<     ><<      ><<     ><<     ><<         ><<\n");
-                    Console.WriteLine("                                    Sistema Autonomo Racional Artificial V:1.3\n\n");
+                    Console.WriteLine("                ><< <<       ><<     ><<         ><<     ><<     ><<      ><<     ><<     ><<         ><<    V1.3\n");
                     Console.WriteLine("                                        Codigo fonte de Wenderson Rafael\n\n\n");
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.SetCursorPosition(0, Console.CursorTop + 1); // Volta para a linha de baixo da logo
