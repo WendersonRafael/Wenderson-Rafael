@@ -1,5 +1,5 @@
 /*Em uso a versão 4.7.1 do .NET Framework
-Referencias do C#C(CSharp) usadas:
+Referencias do C#(CSharp) usadas:
 
 Microsoft.CSharp,
 Microsoft.VisualBasic,
