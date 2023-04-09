@@ -1,3 +1,22 @@
+/*Em uso a versão 4.7.1 do .NET Framework
+Referencias do C# usadas:
+
+Microsoft.CSharp,
+Microsoft.VisualBasic,
+System,
+System.Core,
+System.Data,
+System.Data.DataSetExtensions,
+System.Device,
+System.Net,
+System.Net.Http,
+System.Speech,
+System.Xml,
+System.Xml.Linq.
+
+Adicione todas as referencias em sua IDE ou o projeto não irá funcionar.*/
+
+
 ﻿using System;
 using System.Speech.Synthesis;
 using System.Net;
