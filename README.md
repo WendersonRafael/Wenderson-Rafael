@@ -1,17 +1,30 @@
-# Wenderson-Rafael<h1 align="center">Oi 👋 , sou Wenderson</h1><h3 align="center">
-Tenho 15 anos, sou um estudante de programação e desenvolvimento de software apaixonado por tecnologia. Meu foco principal é em linguagens como C, C++, C#, Arduino, robótica e criação de jogos. Estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias para me manter atualizado no mundo da programação. Além disso, sou um entusiasta da resolução de problemas e adoro enfrentar desafios complexos. Acredito que a programação é uma forma de expressão artística, permitindo criar soluções inovadoras e impactar positivamente a vida das pessoas.veloper from India</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendersonrafael" alt="wendersonrafael" /></a> </p>
+
+# Profile
+
+Olá! Sou Wenderson, um estudante de programação e desenvolvimento de software apaixonado por tecnologia. Tenho conhecimentos sólidos em linguagens como C, C++, C#, Arduino, robótica e criação de jogos. Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para me manter atualizado no mundo da programação.
+
+A resolução de problemas é algo que me motiva, e adoro enfrentar desafios complexos. Acredito que a programação é uma forma de expressão artística, permitindo criar soluções inovadoras e impactar positivamente a vida das pessoas.
+
+
+## Projetos/Aprendizado
+👩‍💻 Trabalho atualmente no Projeto S.A.R.A
+
+🧠 Estou aprendendo Desenvolvimento de Rede Neural
 
 
 
-- 🔭 Estou trabalhando atualmente em **Projeto S.A.R.A**
 
-<h3 align="left">Connect with me:</h3><p align="left">
-<a href="https://instagram.com/@_wendersonrafael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_wendersonrafael" height="30" width="40" /></a>
+## HABILIDADES
 
-<a href="https://discord.gg/https://discord.gg/EqQZRXWz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EqQZRXWz" height="30" width="40" /></a></p><h3 align="left">Idiomas e Ferramentas:</h3>
+Linguagens de Programação: C, C++, C#;
+Frameworks e Bibliotecas: .NET, ASP.NET;
+Bancos de Dados: MySQL, MongoDB;
+Ferramentas de Controle de Versão: Git, GitHub
+
+
+## Stack utilizada
 
 
 
-<p align="esquerda"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Desenvolvimento e Criação de Sofwares:** .NET Framework, MySQL, ASP.NET
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendersonrafael&show_icons=true&locale=en&layout=compact" alt="wendersonrafael" /></p>
