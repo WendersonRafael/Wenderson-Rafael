@@ -12,9 +12,9 @@
 </p>
 <h2 align="left"><strong>MINHAS SKILLS:</h2>
 <p align="left">
-<img src="img/C++.svg" width = 40 />
-<img src="img/C.svg" width = 40/>
-<img src="img/C#.svg" width = 40/>
+<img src="img/c++.svg" width = 40 />
+<img src="img/c.svg" width = 40/>
+<img src="img/c#.svg" width = 40/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=E21D46&width=435&lines=Please+stand+by...;I+will+get+my+coffee." alt="Typing SVG" /></a>
 
